@@ -9,11 +9,19 @@ namespace Repo1
             Console.WriteLine("What's your name?");
             string input = Console.ReadLine();
             Console.WriteLine($"Hello {input}!");
-            Console.Clear
             /* This part will tell the user their age in a string 
-             */* 
-            Console.WriteLine("How old are you?")
+             */
+            Console.WriteLine("How old are you?");
+            string age = Console.ReadLine();
+
+            
+            
+           
+                }
+               
+
+
+
 
         }
     }
-}
