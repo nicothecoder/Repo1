@@ -12,7 +12,7 @@ namespace Repo1
             Console.Clear
             /* This part will tell the user their age in a string 
              */* 
-            Console.WriteLine("")
+            Console.WriteLine("How old are you?")
 
         }
     }
